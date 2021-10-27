@@ -18,7 +18,7 @@ export class HomePage
 
 ---
 
-### In the above code snippet, in the Component decorator, what is the `selector` for?
+### In the Component decorator, what is the `selector` for?
 
 This represents the CSS selector that identifies elements related to this component.
 

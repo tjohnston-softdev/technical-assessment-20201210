@@ -22,7 +22,7 @@ One of the benefits of using Webpack is that it gives you control over which ass
 
 ---
 
-### What command would you use to run that mongo container locally and have it accessible on port 27017? (not using a docker-compose file and don't worry about volumes)
+### What command would you use to run that mongo container locally and have it accessible on port 27017?
 
 `docker run -d  --name mongo-example  -p 27888:27017`
 

@@ -17,7 +17,7 @@ const person = new Person('John');
 
 ---
 
-### Given the above example class, what would be the expected output of `person.sayHello();`
+### What would be the expected output of `person.sayHello();`
 
 "Hello, my name is John"
 
@@ -31,7 +31,7 @@ In this case, the 'name' property is used by the `sayHello` method in order to i
 
 ---
 
-### After having created a new Person object called 'person' (as shown above), would it be possible to access the class variable 'name' like this `person.name`? Explain why.
+### After having created a new Person object called 'person', would it be possible to access the class variable 'name' like this `person.name`?
 
 No, it would not be possible to access the 'name' property from the class object by itself. This is because the property is private - It can only be accessed within the class itself and cannot be publicly accessed from the outside (see previous answer).
 
@@ -39,7 +39,7 @@ In order for 'name' to be accessible, the property would have to be public, or a
 
 ---
 
-### Can you provide a brief description of the difference between 'Composition' and 'Inheritance' with respect to classes?
+### Can you provide a brief description of the difference between 'Composition' and 'Inheritance' in classes?
 
 Inheritance defines the parent-child relationship between different objects in a system. This starts with a superclass that has the base properties, methods, etc. The superclass expands into subclasses which inherit the parent functionality while having unique functionality of their own. For example, a superclass may be a 'Vehicle' while it's subclasses may include 'Car', 'Bike', etc.
 

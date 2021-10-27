@@ -12,7 +12,7 @@ const data =
 
 ---
 
-### Given the example data above, write a single line of JavaScript code that will extract all the email addresses from 'data' into an array.
+### Write a single line of JavaScript code that will extract all the email addresses from 'data' into an array.
 
 ```javascript
 var emailAddresses = data.map(function(obj)
@@ -23,7 +23,7 @@ var emailAddresses = data.map(function(obj)
 
 ---
 
-### With a single line of JavaScript code extract all the objects where the 'favoriteColor' is 'Blue' into an array
+### Write a single line of JavaScript code to extract all the objects where the 'favoriteColor' is 'Blue' into an array
 
 ```javascript
 var blueList = data.filter(function (obj)
