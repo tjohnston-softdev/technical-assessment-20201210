@@ -34,4 +34,7 @@ var blueList = data.filter(function (obj)
 
 ---
 
-[Return to Index](../readme.md)
+**Previous:** [4 - Containers](./4-containers.md)  
+**Next:** [6 - Classes](./6-classes.md)
+
+[Contents](./readme.md)

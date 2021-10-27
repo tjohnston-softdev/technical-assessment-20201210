@@ -28,4 +28,7 @@ One of the benefits of using Webpack is that it gives you control over which ass
 
 ---
 
-[Return to Index](../readme.md)
+**Previous:** [3 - Databases](./3-databases.md)  
+**Next:** [5 - JSON](./5-json.md)
+
+[Contents](./readme.md)

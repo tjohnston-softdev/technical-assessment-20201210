@@ -47,4 +47,7 @@ Composition is when the whole object is assembled from a series of parts, or sub
 
 ---
 
-[Return to Index](../readme.md)
+**Previous:** [5 - JSON](./5-json.md)  
+**Next:** [7 - Unit Testing](./7-unit_testing.md)
+
+[Contents](./readme.md)

@@ -93,4 +93,7 @@ Also, the function throws errors for invalid input so mocha/chai should flag the
 
 ---
 
-[Return to Index](../readme.md)
+**Previous:** [6 - Classes](./6-classes.md)  
+**Next:** [8 - Angular](./8-angular.md)
+
+[Contents](./readme.md)

@@ -16,4 +16,7 @@ For this project, we ended up using a Node JS backend and a MySQL database. The 
 
 ---
 
-[Return to Index](../readme.md)
+**Previous:**  
+**Next:** [2 - Node JS](./2-nodejs.md)
+
+[Contents](./readme.md)
