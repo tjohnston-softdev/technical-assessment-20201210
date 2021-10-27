@@ -1,4 +1,4 @@
 # Changelog
 
-**./submission/5-json.md**
-* Converted 'JSON' questions.
+**./submission/6-classes.md**
+* Converted 'Class' questions.
