@@ -1,4 +1,4 @@
 # Changelog
 
-**./submission/**
-* Added navigation between chapters.
+**./readme.md**
+* Wrote contents.
