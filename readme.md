@@ -1,3 +1,3 @@
-# Coding Challenge (2020-12-10)
+# Technical Assessment (2020-12-10)
 
 BODY
