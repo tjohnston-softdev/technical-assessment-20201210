@@ -1,4 +1,6 @@
 # Changelog
 
 **./submission/readme.md**
-* New file - Contents page.
+* Restructured contents:
+	* Removed sub-items.
+	* Only links to individual chapters.
