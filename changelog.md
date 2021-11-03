@@ -1,4 +1,4 @@
 # Changelog
 
 **./readme.md**
-* Wrote contents.
+* Added release date.

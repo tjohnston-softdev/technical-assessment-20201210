@@ -4,7 +4,7 @@ This is the submission for a technical assessment that I was invited to complete
 
 If I remember correctly, the assessment was given via Google Forms. Therefore, I had to complete it all in one sitting. Fortunately, I was able to save my answers before submitting, which I am now sharing publicly.
 
-The assessment was originally undertaken on 10 December 2020. The submission was converted to markdown on 27 October 2021 and shared publicly on xx November 2021.
+The assessment was originally undertaken on 10 December 2020. The submission was converted to markdown on 27 October 2021 and shared publicly on 3 November 2021.
 
 [Assessment Submission](./submission/readme.md)
 
